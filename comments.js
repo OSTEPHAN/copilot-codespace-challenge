@@ -1,5 +1,5 @@
 /**
- * Create a web server that can respond to requests for /hello and respond with some HTML that says <h1>Hello World</h1>
+ * Create web server that can respond to requests for /hello and respond with some HTML that says <h1>Hello World</h1>
  */
 
 const http = require('http');
